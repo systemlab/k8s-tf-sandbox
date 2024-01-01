@@ -1,0 +1,9 @@
+# Local .terraform directories
+**/.terraform/*
+
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+
+*.secret.tfvars
